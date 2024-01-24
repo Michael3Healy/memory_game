@@ -6,7 +6,10 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <h1>Memory Game!</h1>
+    <div id="top"></div>
+    <h1>Memory Game</h1>
+    <h2 class="game score"></h2>
+    <h2 class="best score"></h2>
     <form id="selections">
       <label for="difficulty">What level of difficulty would you like to play?</label>
       <select name="difficulty" id="difficulty">
@@ -15,12 +18,10 @@
         <option value="hard">Hard</option>
       </select>
       <button class="start">Start Game!</button>
-      <button class="reset">Restart</button>
     </form>
-    <div id="game">
-        <img src="images/pexels-james-wheeler-417074.jpg" class="image">
-    </div>
-    
+    <div id="game"></div>
+    <div id="bottom"></div>
     <script src="script.js"></script>
   </body>
+  <footer><i>Created by</i>: Michael Healy</footer>
 </html>
