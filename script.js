@@ -28,9 +28,9 @@ function updateScore() {
 
 // Contains all of the potential images that could be used
 const pathToImages = [
-  "images/pexels-james-wheeler-417074.jpg", "images/36-iconic-waterfall-seljandrafoss-iceland.avif", "images/avenue-815297_640.jpg", 
+  "images/pexels-james-wheeler-417074.jpg", "images/36-iconic-waterfall-seljandrafoss-iceland.jpg", "images/avenue-815297_640.jpg", 
   "images/bsr-focus-nature-hero.jpg", "images/image27-1.png", "images/istockphoto-517188688-612x612.jpg", "images/lake-blue-moonlight-moon-wallpaper-preview.jpg",
-  "images/mixkit-going-down-a-curved-highway-through-a-mountain-range-41576-0.avif", "images/nature-3082832_1280.jpg", "images/photo-1617635277889-df22350f81a0.avif",
+  "images/mixkit-going-down-a-curved-highway-through-a-mountain-range-41576-0.jpg", "images/nature-3082832_1280.jpg", "images/photo-1617635277889-df22350f81a0.jpg",
   "images/road-1072821_640.jpg", "images/unnamed.jpg"
 ];
 
